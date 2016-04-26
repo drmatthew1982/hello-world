@@ -3,4 +3,4 @@
 
 Here is Matthew from USTC
 
-And I like the software development
+And I like the software management and development
